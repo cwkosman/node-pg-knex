@@ -1,0 +1,22 @@
+{
+  "name": "node-pg-connect",
+  "version": "1.0.0",
+  "description": "Fiddling with pg and knex",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cwkosman/node-pg-knex.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cwkosman/node-pg-knex/issues"
+  },
+  "homepage": "https://github.com/cwkosman/node-pg-knex#readme",
+  "dependencies": {
+    "pg": "^6.1.2"
+  }
+}
